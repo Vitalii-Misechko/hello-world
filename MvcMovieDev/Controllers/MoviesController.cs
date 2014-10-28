@@ -104,6 +104,7 @@ namespace MvcMovieDev.Controllers
         }
 
         // GET: /Movie/Delete/5
+        // some comments
         public ActionResult Delete(int? id)
         {
             if (id == null)
