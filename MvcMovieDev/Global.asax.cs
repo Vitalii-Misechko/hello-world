@@ -8,6 +8,7 @@ using System.Web.Routing;
 
 namespace MvcMovieDev
 {
+	// some other comment
     public class MvcApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
