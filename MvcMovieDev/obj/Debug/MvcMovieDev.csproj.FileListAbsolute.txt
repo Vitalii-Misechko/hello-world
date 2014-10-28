@@ -57,3 +57,4 @@ C:\Users\epam\Documents\Visual Studio 2013\Projects\MvcMovieDev\MvcMovieDev\obj\
 C:\Users\epam\Documents\Visual Studio 2013\Projects\MvcMovieDev\MvcMovieDev\obj\Debug\MvcMovieDev.Migrations.RatingAdded.resources
 C:\Users\epam\Documents\Visual Studio 2013\Projects\MvcMovieDev\MvcMovieDev\obj\Debug\MvcMovieDev.csprojResolveAssemblyReference.cache
 C:\Users\epam\Documents\Visual Studio 2013\Projects\MvcMovieDev\MvcMovieDev\obj\Debug\MvcMovieDev.Migrations.Anotations.resources
+C:\Users\epam\Documents\Visual Studio 2013\Projects\MvcMovieDev\MvcMovieDev\obj\Debug\MvcMovieDev.Migrations.Actors.resources

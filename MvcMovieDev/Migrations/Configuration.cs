@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using MvcMovieDev.Models;
 
 namespace MvcMovieDev.Migrations
@@ -52,7 +53,19 @@ namespace MvcMovieDev.Migrations
                     Rating = "G",
                     Price = 3.99M
                 }
-                );
+            );
+            context.Actors.AddOrUpdate(a => a.Name,
+                new Actor
+                {
+                    Name = "Bred Pitt",
+                    OscarsNumber = 1
+                },
+                new Actor
+                {
+                    Name = "Angelina Jolie",
+                    OscarsNumber = 1
+                }
+           );
         }
     }
 }
